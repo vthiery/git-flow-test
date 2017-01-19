@@ -38,7 +38,11 @@ Let's say you want to release a version from 0.1.0, then do
 git flow release start 0.2.0
 ```
 assuming the second number is the standard release counter.
-Any fixes to be done on the release branch are done as usual. Then release with
+Any fixes to be done on the release branch are done as usual. Then publish with
+```
+git flow release publish 0.2.0
+```
+and when approved, release with
 ```
 git flow release finish 0.2.0
 ```
