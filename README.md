@@ -1,7 +1,7 @@
 # How to ... #
 
 ## ... get ready? ##
-Go to https://github.com/nvie/gitflow and read carefully.
+Go to https://github.com/petervanderdoes/gitflow-avh/wiki and read carefully.
 
 ## ... start using git-flow in an existing repo? ##
 Simply run
